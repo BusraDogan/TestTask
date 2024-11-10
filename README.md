@@ -14,7 +14,7 @@ Cypress uses Javascript so npm and node.js must be installed on your computer
 -- Install cypress: **npm install cypress --save-dev**
 
 -- Test files are located in the **e2e** file in the project
-t
+
 -- Start cypress command (This command opens cypress GUI): **npx cypress open**
 
 --After opening the GUI, **e2e Testing** configuration is selected
